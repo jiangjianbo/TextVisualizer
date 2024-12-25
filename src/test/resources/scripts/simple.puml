@@ -1,0 +1,15 @@
+@startuml
+title Simple
+a --> b
+@enduml
+
+@startuml
+title Simple Arrow
+a "abc" --> "bb" b : description
+@enduml
+
+
+
+
+
+
